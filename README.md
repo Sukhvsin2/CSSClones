@@ -1,3 +1,3 @@
 # CSSClones
 Some cool CSS stuff 
-![](https://giphy.com/gifs/web-development-L8K62iTDkzGX6)
+![](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
